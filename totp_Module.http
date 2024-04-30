@@ -1,0 +1,6 @@
+@totp_Module_HostAddress = http://localhost:5041
+
+GET {{totp_Module_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
